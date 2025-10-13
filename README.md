@@ -54,9 +54,5 @@ A **Full Stack Developer 💻** and **AI/ML Enthusiast 🤖** from Pakistan 🇵
 
 ---
 
-### 👁️ Profile Views  
-![](https://komarev.com/ghpvc/?username=zafarali12&color=brightgreen)
-
----
 
 ⭐ **"Turning ideas into code and code into impact."**

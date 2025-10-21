@@ -1,6 +1,6 @@
 # Hi there, I'm Zafar 👋
 
-A **Full Stack Developer 💻** and **AI/ML Enthusiast 🤖** from Pakistan 🇵🇰
+A **Full Stack Developer 💻** and **AI/ML Enthusiast 🤖** 
 
 ---
 
@@ -21,13 +21,6 @@ A **Full Stack Developer 💻** and **AI/ML Enthusiast 🤖** from Pakistan 🇵
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zafarali12&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zafarali12&layout=compact&theme=radical" />
-</p>
-
----
 
 ### 🧩 Featured Projects  
 - 🏕️ **[Wanderlust Travel Platform](#)** — Airbnb-style MERN booking app with authentication & listings.  

@@ -16,7 +16,7 @@ A **Full Stack Developer 💻** and **AI/ML Enthusiast 🤖**
 
 ### 🛠️ Languages and Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,python,c,cpp,git,github,vscode,bootstrap,aws" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,python,c,cpp,git,github,vscode,bootstrap,aws,nextjs" />
 </p>
 
 ---

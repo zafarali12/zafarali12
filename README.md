@@ -10,7 +10,7 @@ A **Full Stack Developer 💻** and **AI/ML Enthusiast 🤖**
 - 💼 **Worked with:** Cortexis Solution Hub, Developers Cohub, and PEL as a Full Stack Intern.  
 - 🧩 **Belief:** “Code it, break it, fix it — that’s how you grow.”  
 - 🎯 **Currently learning:** Next.js 15, AWS Bedrock, and AI Agent integrations.  
-- 📫 **Reach me at:** [LinkedIn](https://linkedin.com/in/muhammadzafarali) | [Email](mailto:zafaraliimran12@gmail.com)| [Portfolio](https://zafar-ali-portfolio.vercel.app/)
+- 📫 **Reach me at:** [LinkedIn](https://linkedin.com/in/muhammadzafarali) | [Email](mailto:zafaraliimran12@gmail.com)| [Portfolio](https://ali-portfolio-eta.vercel.app/)
 
 ---
 
